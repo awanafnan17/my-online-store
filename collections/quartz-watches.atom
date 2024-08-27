@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://timevo-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://timevo-theme.myshopify.com/collections/quartz-watches.atom"/>
+  <title>timevo-theme</title>
+  <updated>2024-03-19T06:07:51-04:00</updated>
+  <author>
+    <name>timevo-theme</name>
+  </author>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362961052</id>
+    <published>2024-03-19T06:07:51-04:00</published>
+    <updated>2024-03-19T06:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/pulse-max-smartwatch"/>
+    <title>Pulse Max Smartwatch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Skyup</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P6-01.jpg?v=1710582635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skyup<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>smartwatch</s:tag>
+    <s:tag>trendy</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362961052</id>
+      <title>Timberwolf / Rubber / 1.5 Inches</title>
+      <s:price currency="INR">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+    <published>2024-03-16T06:24:22-04:00</published>
+    <updated>2024-03-16T06:24:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/fitness-tracker-watch"/>
+    <title>Fitness Tracker Watch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Skyup</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P12-01.jpg?v=1710584560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skyup<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            2500.00 - 3000.00
+            <a href="https://timevo-theme.myshopify.com/products/fitness-tracker-watch">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>Tracker</s:tag>
+    <s:tag>trendy</s:tag>
+    <s:tag>watch</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Pickled Bluewood / 200g / Rubber</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Pickled Bluewood / 200g / Leather</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 200g / Rubber</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 200g / Leather</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 250g / Rubber</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 250g / Leather</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 400g / Rubber</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>Green Pea / 400g / Leather</title>
+      <s:price currency="INR">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 200g / Rubber</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 200g / Leather</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 250g / Rubber</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 250g / Leather</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 400g / Rubber</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7903257297052</id>
+      <title>River Bed / 400g / Leather</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+    <published>2024-02-26T07:56:05-05:00</published>
+    <updated>2024-02-26T07:56:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/pro-plus-watch"/>
+    <title>Pro Plus Watch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Sennheiser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P10-01.jpg?v=1710583611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sennheiser<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            1440.00 - 5149.00
+            <a href="https://timevo-theme.myshopify.com/products/pro-plus-watch">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>trendy</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Light Mustard / 1.5 Inches / Leather</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Light Mustard / 1.5 Inches / Rubber</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Light Mustard / 1.9 Inches / Leather</title>
+      <s:price currency="INR">5149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Light Mustard / 1.9 Inches / Rubber</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Fresh Green / 1.7 Inches / Leather</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Fresh Green / 1.7 Inches / Rubber</title>
+      <s:price currency="INR">2200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Fresh Green / 1.9 Inches / Leather</title>
+      <s:price currency="INR">5149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Fresh Green / 1.9 Inches / Rubber</title>
+      <s:price currency="INR">2100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.5 Inches / Leather</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.5 Inches / Rubber</title>
+      <s:price currency="INR">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.7 Inches / Leather</title>
+      <s:price currency="INR">2250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.7 Inches / Rubber</title>
+      <s:price currency="INR">1440.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.9 Inches / Leather</title>
+      <s:price currency="INR">5149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363321500</id>
+      <title>Goldenrod / 1.9 Inches / Rubber</title>
+      <s:price currency="INR">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876363124892</id>
+    <published>2024-02-26T07:55:57-05:00</published>
+    <updated>2024-02-26T07:55:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/digital-smartwatch"/>
+    <title>Digital Smartwatch</title>
+    <s:type>Bluetooth</s:type>
+    <s:vendor>Skullcandy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P5-01.jpg?v=1710582478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skullcandy<br>
+        <strong>Type: </strong>Bluetooth<br>
+        <strong>Price: </strong>
+            2500.00 - 3200.00
+            <a href="https://timevo-theme.myshopify.com/products/digital-smartwatch">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>trendy</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363124892</id>
+      <title>Dusty Grey / 1.5 Inches / Leather</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363124892</id>
+      <title>Dusty Grey / 1.5 Inches / Rubber</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363124892</id>
+      <title>Sage Green / 1.8 Inches / Leather</title>
+      <s:price currency="INR">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876363124892</id>
+      <title>Sage Green / 1.8 Inches / Rubber</title>
+      <s:price currency="INR">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362895516</id>
+    <published>2024-02-26T07:55:44-05:00</published>
+    <updated>2024-02-26T07:55:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/fitness-track-watch"/>
+    <title>Fitness Track Watch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Bluedio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P7-01.jpg?v=1710582917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluedio<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            2000.00 - 4000.00
+            <a href="https://timevo-theme.myshopify.com/products/fitness-track-watch">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fit</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>watch</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362895516</id>
+      <title>Gravel / 1.8 Inches / Leather</title>
+      <s:price currency="INR">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362895516</id>
+      <title>Pine / 1.2 Inches / Leather</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362895516</id>
+      <title>Plum Purple / 1.9 Inches / Rubber</title>
+      <s:price currency="INR">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+    <published>2024-02-26T07:55:29-05:00</published>
+    <updated>2024-02-26T07:55:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/analog-wrist-watch"/>
+    <title>Analog Wrist Watch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Sennheiser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P8-01_f2697b8a-09d0-4a91-aa91-0f2c68c6c5ae.jpg?v=1710736914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sennheiser<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            1500.00 - 2500.00
+            <a href="https://timevo-theme.myshopify.com/products/analog-wrist-watch">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>trendy</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Dark Lavender / 1.5 Inches / Leather</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Dark Lavender / 1.5 Inches / Rubber</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Timberwolf / 1.7 Inches / Leather</title>
+      <s:price currency="INR">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Timberwolf / 1.7 Inches / Rubber</title>
+      <s:price currency="INR">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Medium Grey / 1.9 Inches / Leather</title>
+      <s:price currency="INR">1700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362666140</id>
+      <title>Medium Grey / 1.9 Inches / Rubber</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362567836</id>
+    <published>2024-02-26T07:55:24-05:00</published>
+    <updated>2024-02-26T07:55:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/bluetooth-calling-watc"/>
+    <title>Bluetooth Calling Watch</title>
+    <s:type>Backpack</s:type>
+    <s:vendor>Fitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P9-01.jpg?v=1710583328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fitz<br>
+        <strong>Type: </strong>Backpack<br>
+        <strong>Price: </strong>
+            2000.00 - 3250.00
+            <a href="https://timevo-theme.myshopify.com/products/bluetooth-calling-watc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>trendy</s:tag>
+    <s:tag>watch</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362567836</id>
+      <title>Salmon Pink / 1.83 Inches / Rubber</title>
+      <s:price currency="INR">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362567836</id>
+      <title>Vivid Tangerine / 1.83 Inches / Leather</title>
+      <s:price currency="INR">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362567836</id>
+      <title>Aqua Island / 2.01 Inches / Rubber</title>
+      <s:price currency="INR">3250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362403996</id>
+    <published>2024-02-26T07:55:16-05:00</published>
+    <updated>2024-02-26T07:55:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/prime-pro-smartwatch"/>
+    <title>Prime Pro Smartwatch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Bluedio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/P3-01.jpg?v=1710582057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluedio<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            1800.00 - 2500.00
+            <a href="https://timevo-theme.myshopify.com/products/prime-pro-smartwatch">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluedio</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tracker</s:tag>
+    <s:tag>trendy</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362403996</id>
+      <title>Dark Lavender / Rubber / 1.5 Inches</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362403996</id>
+      <title>Medium Grey / Leather / 1.7 Inches</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+    <published>2024-02-26T07:54:59-05:00</published>
+    <updated>2024-02-26T07:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://timevo-theme.myshopify.com/products/unisex-smartwatch"/>
+    <title>Unisex Smartwatch</title>
+    <s:type>SmartWatch</s:type>
+    <s:vendor>Skyup</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0626/5280/9372/files/VioletWatch.jpg?v=1711021812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skyup<br>
+        <strong>Type: </strong>SmartWatch<br>
+        <strong>Price: </strong>
+            1200.00 - 3000.00
+            <a href="https://timevo-theme.myshopify.com/products/unisex-smartwatch">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Features: </strong></p>
+<p><strong>Sleek Design:</strong> Modern and sleek style that easily blends in with your daily outfit, whether you're at the office, the gym, or a night out.</p>
+<p><strong>Bright Touchscreen Display:</strong> With the brilliant touchscreen display, you may enjoy incredibly clear images and simple navigation. </p>
+<p><strong>Fitness Tracking:</strong> To stay motivated and on track, track your heart rate, your steps, your sleep habits, and create customized fitness goals.</p>
+<p><strong>Multi-Sport Modes:</strong> Improve your performance like never before by getting real-time information into your training.</p>
+<p><strong>Notification:</strong> With smart notifications, you can never reach for your phone to get updates about calls, texts, emails, and apps.</p>
+<p><strong>Music Control:</strong> With only a twist of your wrist, you can effortlessly skip tracks, change the volume, and play or pause music.</p>
+<p> </p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>1.2-inch HD touchscreen display</li>
+<li>Works with both Android and iOS devices</li>
+<li>Bluetooth 5.0 connectivity</li>
+<li>Battery Life last up to seven days<br>
+</li>
+<li>IP68-rated resistance to dust and water</li>
+<li>Gyroscope, accelerometer, and heart rate sensor<br>
+</li>
+<li>Lightweight and sturdy aluminum alloy casing<strong></strong>
+</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Wild Blue Youder / 1.25 Inches / Leather</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Algae / 1.25 Inches / Leather</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Algae / 1.5 Inches / Leather</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Algae / 1.8 Inches / Leather</title>
+      <s:price currency="INR">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Powder Blue / 1.5 Inches / Leather</title>
+      <s:price currency="INR">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://timevo-theme.myshopify.com/products/7876362141852</id>
+      <title>Soft Peach / 1.8 Inches / Leather</title>
+      <s:price currency="INR">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
